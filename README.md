@@ -4,6 +4,14 @@
 
 <img src="screenshots/screenshots.gif" height="500" />
 
+## Description
+A music player with room features where songs can be played by user votes using spotify api.
+
+## Features
+- Songs from all genre can be played in the player
+- Seamless experience
+- Songs can be controlled by anybody
+
 ## Setup Instructions
 
 ### Install Required Python Modules
@@ -15,16 +23,10 @@ pip install -r requirements.txt
 
 To start the web server you need to run the following sequence of commands.
 
-First cd into your desired tutorial folder (replace x with tutorial number).
-```bash 
-cd "Tutorial x"
-```
-Next run the django web server.
+Run the django web server.
 ```bash
 python manage.py runserver
 ```
-
-### [Install Node.js](https://nodejs.org/en/)
 
 ### Install Node Modules
 
